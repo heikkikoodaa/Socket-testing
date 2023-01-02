@@ -1,0 +1,19 @@
+{
+  "name": "socket-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "socketClient.js",
+  "scripts": {
+    "dev": "nodemon socketServer.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
